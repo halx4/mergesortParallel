@@ -40,7 +40,7 @@ public class MyProgram implements ProgramCore {
 
     }
 
-    // --------------------------------------------
+    // -------------------------------------------
     @Override
     public void startMultiPressed() {
 
